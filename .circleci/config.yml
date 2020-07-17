@@ -23,6 +23,6 @@ jobs: # a basic unit of work in a run
 workflows:
   # Name the workflow "welcome"
   welcome:
-    # Run the welcome/run job in its own contai
+    # Run the welcome/run job in its own cont
     jobs:
       - build
